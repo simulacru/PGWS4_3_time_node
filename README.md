@@ -8,7 +8,7 @@
 
 ![結果画像3](result1_3.gif)
 
-<video src="movie_003.mp4" controls title="Title"></video>
+![結果画像](result1_4.gif)
 
 ![シェーダグラフ](node_graph1_4.png)
 
