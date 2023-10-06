@@ -8,14 +8,16 @@
 
 ![結果画像3](result1_3.gif)
 
-![結果画像](result1.gif)
+![結果画像](result1_4.gif)
 
-![シェーダグラフ](node_graph1.png)
+![シェーダグラフ](node_graph1_4.png)
 
 # 自分なりに変更した点
--
--
--
+- グラデーションのテクスチャの自作
+- Cubeに六角形のタイルのテスクチャを張り「Mask SG」の「Sample Texture 2D」のB(1)を「Multiply」に繋ぐように変更（回転はスプライト）
+- 紫のcylinderは「Cylinder RotY SG」の「Time」を「Sine Time(1)」に変更
+- 黄色のcylinderは「Cylinder RotY SG」の「Time」を「Cosine Time(1)」に変更
+- 背景のラインはループの仕方を「Mirror」にし、Cubeと同じグラデーションテスクチャに「Fraction」と「Invert Color」と「Power」を追加し変色
 
 # 進め方
 
