@@ -10,6 +10,8 @@
 
 ![結果画像](result1_4.gif)
 
+<video src="movie_003.mp4" controls title="Title"></video>
+
 ![シェーダグラフ](node_graph1_4.png)
 
 # 自分なりに変更した点
