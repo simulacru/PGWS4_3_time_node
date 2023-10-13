@@ -10,7 +10,7 @@
 
 ![結果画像](result1_4.gif)
 
-<video src="movie_003.mp4" controls title="Title"></video>
+<video src="movie_003.mp4" controls title="movie_003"></video>
 
 ![シェーダグラフ](node_graph1_4.png)
 
