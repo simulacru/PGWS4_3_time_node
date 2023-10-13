@@ -10,7 +10,7 @@
 
 ![結果画像](result1_4.gif)
 
-<video src="movie_003.mp4" controls title="movie_003"></video>
+https://github.com/simulacru/test/assets/104343269/dd9661e9-c317-44be-8166-c454531fd474
 
 ![シェーダグラフ](node_graph1_4.png)
 
